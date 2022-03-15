@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+h1, p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+article {
+    float: left;
+    width: 33.333%;
+}
+
+img {
+    border-radius: 20px;
+    margin-top: 50px;
+    border: 10px solid #e6ae92;
+}
+
+p {
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+body {
+    background-color: #f7e5c0;
+}
