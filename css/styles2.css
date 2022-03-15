@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+h1, p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    float: left;
+    width: 50%;
+    margin-top: 100px;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    clear: both;
+}
+body {
+    background-color: #f7e5c0;
+}
+
+img {
+    border-radius: 20px;
+}
